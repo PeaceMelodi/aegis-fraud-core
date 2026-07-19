@@ -1,17 +1,18 @@
 <div align="center">
-  <br />
-  <img src="https://img.shields.io/badge/Framework-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&v=4" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Language-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&v=4" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Architecture-Strategy_Pattern-8A2BE2?style=for-the-badge&v=4" alt="Architecture" />
-  <img src="https://img.shields.io/badge/Security-Validated-2ea44f?style=for-the-badge&v=4" alt="Security" />
-
   <h1>Aegis Fraud Core</h1>
-  <p><b>A high-throughput, modular transaction risk scoring engine designed for real-time threat mitigation.</b></p>
+  <p><b>A high throughput, modular transaction risk scoring engine designed for real time threat mitigation.</b></p>
   
   <p>
-    <a href="#architectural-highlights">Architectural Highlights</a> •
-    <a href="#directory-layout">Directory Layout</a> •
-    <a href="#getting-started">Getting Started</a> •
+    <code>NestJS Framework</code> &bull; 
+    <code>TypeScript Core</code> &bull; 
+    <code>Strategy Pattern Architecture</code> &bull; 
+    <code>Strict Payload Validation</code>
+  </p>
+
+  <p>
+    <a href="#architectural-highlights">Architectural Highlights</a> &bull;
+    <a href="#directory-layout">Directory Layout</a> &bull;
+    <a href="#getting-started">Getting Started</a> &bull;
     <a href="#api-specification">API Specification</a>
   </p>
   <br />

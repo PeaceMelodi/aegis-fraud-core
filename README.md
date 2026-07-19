@@ -1,9 +1,9 @@
 <div align="center">
   <br />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Architecture-8A2BE2?style=for-the-badge" alt="Architecture" />
-  <img src="https://img.shields.io/badge/Security-2ea44f?style=for-the-badge" alt="Security" />
+  <img src="https://img.shields.io/badge/Framework-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&v=4" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Language-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&v=4" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Architecture-Strategy_Pattern-8A2BE2?style=for-the-badge&v=4" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Security-Validated-2ea44f?style=for-the-badge&v=4" alt="Security" />
 
   <h1>Aegis Fraud Core</h1>
   <p><b>A high-throughput, modular transaction risk scoring engine designed for real-time threat mitigation.</b></p>
